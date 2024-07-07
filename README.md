@@ -1,6 +1,9 @@
 # first__project
 
 A new Flutter project.
+you can visit youtube channel named as decode imagination
+and
+you find a palylist of this project 
 
 ## Getting Started
 
